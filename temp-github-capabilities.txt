@@ -1,2 +1,3 @@
-v1
+v2
 Este archivo se ha creado para probar create/edit/delete en GitHub.
+Editado mediante create_blob + create_tree + create_commit + update_ref.
